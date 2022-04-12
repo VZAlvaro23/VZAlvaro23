@@ -1,5 +1,4 @@
-![](https://github.com/VZAlvaro23/VZAlvaro23/blob/main/vz.png)
-Álvaro Velasco Zúñiga | Frontend developer
+<img  src="https://github.com/VZAlvaro23/VZAlvaro23/blob/main/vz.png" alt="álvaro-velasco-zúñiga-362a85236" height="50" width="50" /> Álvaro Velasco Zúñiga | Frontend developer
 =============
 
 ```html
