@@ -2,7 +2,7 @@
 =============
 
 ```html
-Hello! I'm a web development student that loves designing and programming things.
+Hello! I'm a web development student that loves <designing> and then <programming> his own things.
 ```
 
 > Languages and technologies I currently know or I'm learning:
