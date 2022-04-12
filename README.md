@@ -7,7 +7,7 @@ Hello! I'm a web development student that loves <designing> and then <programmin
 
 > Languages and technologies I currently know or I'm learning:
 > 
-> `HTML, CSS, JavaScript, ReactJS, SASS`
+> `HTML, CSS, JavaScript, ReactJS, Sass`
 > 
 > `Figma, Photoshop`
 
